@@ -1,0 +1,10 @@
+G:\HIAST\4th year\project\6th week\VS\plotdata\plotdata\bin\Debug\plotdata.exe.config
+G:\HIAST\4th year\project\6th week\VS\plotdata\plotdata\bin\Debug\plotdata.exe
+G:\HIAST\4th year\project\6th week\VS\plotdata\plotdata\bin\Debug\plotdata.pdb
+G:\HIAST\4th year\project\6th week\VS\plotdata\plotdata\obj\Debug\plotdata.csprojAssemblyReference.cache
+G:\HIAST\4th year\project\6th week\VS\plotdata\plotdata\obj\Debug\plotdata.Form1.resources
+G:\HIAST\4th year\project\6th week\VS\plotdata\plotdata\obj\Debug\plotdata.Properties.Resources.resources
+G:\HIAST\4th year\project\6th week\VS\plotdata\plotdata\obj\Debug\plotdata.csproj.GenerateResource.cache
+G:\HIAST\4th year\project\6th week\VS\plotdata\plotdata\obj\Debug\plotdata.csproj.CoreCompileInputs.cache
+G:\HIAST\4th year\project\6th week\VS\plotdata\plotdata\obj\Debug\plotdata.exe
+G:\HIAST\4th year\project\6th week\VS\plotdata\plotdata\obj\Debug\plotdata.pdb
